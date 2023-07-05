@@ -1,0 +1,83 @@
+Saida alterada para O0-r8.txt
+
+Tamanho do array alterado para 40000x40000
+
+Quantidade de iteracoes alterado para 31
+
+Quantidade maxima de threads alterada para 8
+
+Measuring idle (1s)
+Package 0: PKG=57.3522J, DRAM=24.1772J
+Package 1: PKG=45.5172J, DRAM=20.7963J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 41.7291s
+Package 0: PKG=2665.18J, DRAM=1688.93J
+Package 1: PKG=2130.7J, DRAM=1625.34J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=56.9192J, DRAM=23.9301J
+Package 1: PKG=44.9546J, DRAM=20.4749J
+
+Measuring idle (1s)
+Package 0: PKG=56.7869J, DRAM=23.978J
+Package 1: PKG=44.7787J, DRAM=20.5134J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 42.2682s
+Package 0: PKG=2676.64J, DRAM=1694.12J
+Package 1: PKG=2142.42J, DRAM=1664.5J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=56.9327J, DRAM=24.0701J
+Package 1: PKG=44.5003J, DRAM=20.7403J
+
+Measuring idle (1s)
+Package 0: PKG=56.9164J, DRAM=24.2125J
+Package 1: PKG=44.1976J, DRAM=20.6573J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 42.6683s
+Package 0: PKG=2704.09J, DRAM=1705.28J
+Package 1: PKG=2159.32J, DRAM=1678.51J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=56.8917J, DRAM=24.0258J
+Package 1: PKG=42.7706J, DRAM=20.6578J
+
+Measuring idle (1s)
+Package 0: PKG=56.8599J, DRAM=24.5148J
+Package 1: PKG=42.7402J, DRAM=21.0103J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 41.6811s
+Package 0: PKG=2643.17J, DRAM=1671.52J
+Package 1: PKG=2109.99J, DRAM=1647.17J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=55.4569J, DRAM=24.118J
+Package 1: PKG=44.1086J, DRAM=20.8685J
+
+Measuring idle (1s)
+Package 0: PKG=55.5112J, DRAM=24.4531J
+Package 1: PKG=44.1884J, DRAM=21.1364J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 41.7s
+Package 0: PKG=2616.57J, DRAM=1670.46J
+Package 1: PKG=2102.99J, DRAM=1646.11J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=55.5109J, DRAM=24.3531J
+Package 1: PKG=42.7312J, DRAM=20.9142J
+

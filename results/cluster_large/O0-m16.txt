@@ -1,0 +1,83 @@
+Saida alterada para O0-m16.txt
+
+Tamanho do array alterado para 40000x40000
+
+Quantidade de iteracoes alterado para 31
+
+Quantidade maxima de threads alterada para 16
+
+Measuring idle (1s)
+Package 0: PKG=58.1914J, DRAM=23.949J
+Package 1: PKG=43.5372J, DRAM=20.9935J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 20.3321s
+Package 0: PKG=1690.12J, DRAM=1205.72J
+Package 1: PKG=1386.78J, DRAM=1225.04J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=60.3779J, DRAM=24.0811J
+Package 1: PKG=45.5784J, DRAM=20.6085J
+
+Measuring idle (1s)
+Package 0: PKG=60.0566J, DRAM=23.7961J
+Package 1: PKG=45.5661J, DRAM=20.6011J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 19.6867s
+Package 0: PKG=1634.44J, DRAM=1158.64J
+Package 1: PKG=1338.74J, DRAM=1144.01J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=60.1851J, DRAM=23.9261J
+Package 1: PKG=45.7143J, DRAM=20.6961J
+
+Measuring idle (1s)
+Package 0: PKG=60.0961J, DRAM=24.2319J
+Package 1: PKG=45.6516J, DRAM=20.8357J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 19.7786s
+Package 0: PKG=1638.23J, DRAM=1156.36J
+Package 1: PKG=1345.69J, DRAM=1147.16J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=59.7639J, DRAM=24.0514J
+Package 1: PKG=45.8301J, DRAM=20.6995J
+
+Measuring idle (1s)
+Package 0: PKG=59.7339J, DRAM=23.9476J
+Package 1: PKG=45.7413J, DRAM=20.6749J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 19.5281s
+Package 0: PKG=1623.19J, DRAM=1141.04J
+Package 1: PKG=1336.41J, DRAM=1140.97J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=60.5711J, DRAM=24.0589J
+Package 1: PKG=46.0522J, DRAM=20.8065J
+
+Measuring idle (1s)
+Package 0: PKG=60.3809J, DRAM=24.311J
+Package 1: PKG=45.9322J, DRAM=21.0871J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 19.6437s
+Package 0: PKG=1623.52J, DRAM=1144.17J
+Package 1: PKG=1352.85J, DRAM=1145.05J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=59.8572J, DRAM=24.0563J
+Package 1: PKG=46.4001J, DRAM=20.6804J
+

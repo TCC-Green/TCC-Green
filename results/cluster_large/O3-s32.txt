@@ -1,0 +1,83 @@
+Saida alterada para O3-s32.txt
+
+Tamanho do array alterado para 28000x28000
+
+Quantidade de iteracoes alterado para 63
+
+Quantidade maxima de threads alterada para 32
+
+Measuring idle (1s)
+Package 0: PKG=29.4727J, DRAM=18.6143J
+Package 1: PKG=25.2573J, DRAM=17.423J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 13.5045s
+Package 0: PKG=1031.95J, DRAM=1133.47J
+Package 1: PKG=915.967J, DRAM=1094.74J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=46.9559J, DRAM=24.5703J
+Package 1: PKG=40.9065J, DRAM=22.5942J
+
+Measuring idle (1s)
+Package 0: PKG=46.9235J, DRAM=24.5654J
+Package 1: PKG=40.8923J, DRAM=22.7826J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 11.8869s
+Package 0: PKG=896.448J, DRAM=985.392J
+Package 1: PKG=796.485J, DRAM=973.936J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=47.0109J, DRAM=24.6984J
+Package 1: PKG=41.1508J, DRAM=23.0204J
+
+Measuring idle (1s)
+Package 0: PKG=47.051J, DRAM=24.9852J
+Package 1: PKG=41.0704J, DRAM=23.1732J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 11.9774s
+Package 0: PKG=891.154J, DRAM=986.178J
+Package 1: PKG=798.799J, DRAM=977.359J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=47.0477J, DRAM=24.7288J
+Package 1: PKG=41.2926J, DRAM=22.7684J
+
+Measuring idle (1s)
+Package 0: PKG=47.0695J, DRAM=24.969J
+Package 1: PKG=41.2781J, DRAM=22.8896J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 11.9184s
+Package 0: PKG=901.693J, DRAM=984.264J
+Package 1: PKG=805.717J, DRAM=977.969J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=47.41J, DRAM=24.4025J
+Package 1: PKG=41.3517J, DRAM=22.9058J
+
+Measuring idle (1s)
+Package 0: PKG=47.2628J, DRAM=24.8162J
+Package 1: PKG=41.3044J, DRAM=23.0869J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 11.9688s
+Package 0: PKG=895.467J, DRAM=984.921J
+Package 1: PKG=805.765J, DRAM=978.756J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=47.0861J, DRAM=25.0419J
+Package 1: PKG=41.3733J, DRAM=23.2613J
+

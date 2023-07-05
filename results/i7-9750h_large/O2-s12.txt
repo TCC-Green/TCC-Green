@@ -1,0 +1,68 @@
+Saida alterada para O2-s12.txt
+
+Tamanho do array alterado para 28000x28000
+
+Quantidade de iteracoes alterado para 63
+
+Quantidade maxima de threads alterada para 12
+
+Measuring idle (1s)
+Package 0: PKG=2.24792J, PP0=0.420715J, PP1=0.0976562J, DRAM=0.614624J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 51.1719s
+Package 0: PKG=2556.46J, PP0=2371J, PP1=8.37683J, DRAM=213.997J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=2.11804J, PP0=0.263367J, PP1=0.098999J, DRAM=0.615723J
+
+Measuring idle (1s)
+Package 0: PKG=2.6333J, PP0=0.774109J, PP1=0.106262J, DRAM=0.618164J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 49.0113s
+Package 0: PKG=2334.13J, PP0=2154.81J, PP1=7.98145J, DRAM=206.661J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=2.16919J, PP0=0.314758J, PP1=0.100525J, DRAM=0.616089J
+
+Measuring idle (1s)
+Package 0: PKG=2.10266J, PP0=0.251831J, PP1=0.0974731J, DRAM=0.614685J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 48.9821s
+Package 0: PKG=2331.25J, PP0=2151.37J, PP1=8.03406J, DRAM=206.591J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=2.13196J, PP0=0.272156J, PP1=0.0985107J, DRAM=0.615173J
+
+Measuring idle (1s)
+Package 0: PKG=2.15637J, PP0=0.296875J, PP1=0.101624J, DRAM=0.614868J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 48.9943s
+Package 0: PKG=2331.75J, PP0=2151.54J, PP1=8.02362J, DRAM=206.601J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=2.90234J, PP0=1.03595J, PP1=0.0993042J, DRAM=0.616516J
+
+Measuring idle (1s)
+Package 0: PKG=2.18256J, PP0=0.319458J, PP1=0.101624J, DRAM=0.61499J
+
+Initialize Stencil (28002x28002 array)
+Execute Stencil
+Execution time: 49.0197s
+Package 0: PKG=2332.97J, PP0=2152.47J, PP1=8.0387J, DRAM=206.673J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=2.16913J, PP0=0.300293J, PP1=0.0969238J, DRAM=0.615784J
+

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+### queue our script to run in the cluster node
+qsub script.slurm

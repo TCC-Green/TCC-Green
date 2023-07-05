@@ -1,0 +1,83 @@
+Saida alterada para O0-r4.txt
+
+Tamanho do array alterado para 100x100
+
+Quantidade de iteracoes alterado para 5000000
+
+Quantidade maxima de threads alterada para 4
+
+Measuring idle (1s)
+Package 0: PKG=43.9169J, DRAM=25.239J
+Package 1: PKG=36.4418J, DRAM=23.1976J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 88.1123s
+Package 0: PKG=4018.64J, DRAM=2913.19J
+Package 1: PKG=3391.87J, DRAM=2038.59J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=42.7337J, DRAM=25.0391J
+Package 1: PKG=35.5889J, DRAM=22.8956J
+
+Measuring idle (1s)
+Package 0: PKG=42.6767J, DRAM=24.9828J
+Package 1: PKG=35.6263J, DRAM=23.1419J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 88.1323s
+Package 0: PKG=4007.74J, DRAM=2910.56J
+Package 1: PKG=3382.42J, DRAM=2033.35J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=42.6167J, DRAM=24.975J
+Package 1: PKG=35.5956J, DRAM=22.8174J
+
+Measuring idle (1s)
+Package 0: PKG=42.6422J, DRAM=25.3848J
+Package 1: PKG=35.5891J, DRAM=23.0985J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 88.2053s
+Package 0: PKG=4006.78J, DRAM=2919.47J
+Package 1: PKG=3384.57J, DRAM=2035.73J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=42.5617J, DRAM=25.0739J
+Package 1: PKG=35.6038J, DRAM=22.8916J
+
+Measuring idle (1s)
+Package 0: PKG=42.6064J, DRAM=25.1098J
+Package 1: PKG=35.5947J, DRAM=23.0723J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 87.9906s
+Package 0: PKG=3998.07J, DRAM=2913.08J
+Package 1: PKG=3380.48J, DRAM=2027.39J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=42.5755J, DRAM=24.9736J
+Package 1: PKG=35.6028J, DRAM=23.0745J
+
+Measuring idle (1s)
+Package 0: PKG=42.5286J, DRAM=25.1389J
+Package 1: PKG=35.5993J, DRAM=23.0734J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 88.1007s
+Package 0: PKG=3999.3J, DRAM=2911.64J
+Package 1: PKG=3382.52J, DRAM=2030.62J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=42.5901J, DRAM=25.0009J
+Package 1: PKG=35.6044J, DRAM=22.8295J
+

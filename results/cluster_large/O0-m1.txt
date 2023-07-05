@@ -1,0 +1,83 @@
+Saida alterada para O0-m1.txt
+
+Tamanho do array alterado para 40000x40000
+
+Quantidade de iteracoes alterado para 31
+
+Quantidade maxima de threads alterada para 1
+
+Measuring idle (1s)
+Package 0: PKG=40.0843J, DRAM=17.7062J
+Package 1: PKG=27.1349J, DRAM=20.0637J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 309.118s
+Package 0: PKG=17999.3J, DRAM=11343.6J
+Package 1: PKG=11896.6J, DRAM=-257097J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=39.9572J, DRAM=23.7557J
+Package 1: PKG=26.6704J, DRAM=16.0952J
+
+Measuring idle (1s)
+Package 0: PKG=39.8986J, DRAM=23.8021J
+Package 1: PKG=26.4937J, DRAM=15.9861J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 309.032s
+Package 0: PKG=17863.6J, DRAM=11329.3J
+Package 1: PKG=11888.1J, DRAM=5048.94J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=40.1826J, DRAM=23.7556J
+Package 1: PKG=26.6599J, DRAM=16.0773J
+
+Measuring idle (1s)
+Package 0: PKG=39.8724J, DRAM=24.0279J
+Package 1: PKG=26.1776J, DRAM=16.0111J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 309.028s
+Package 0: PKG=17652J, DRAM=11321.8J
+Package 1: PKG=11873.9J, DRAM=5048.27J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=40.8522J, DRAM=24.376J
+Package 1: PKG=27.2197J, DRAM=16.318J
+
+Measuring idle (1s)
+Package 0: PKG=39.8097J, DRAM=24.2125J
+Package 1: PKG=26.1808J, DRAM=16.2637J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 309.029s
+Package 0: PKG=17634.5J, DRAM=11295.4J
+Package 1: PKG=11833.6J, DRAM=5118.96J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=39.6583J, DRAM=24.2377J
+Package 1: PKG=25.9672J, DRAM=16.2648J
+
+Measuring idle (1s)
+Package 0: PKG=39.4365J, DRAM=24.0551J
+Package 1: PKG=25.837J, DRAM=16.2466J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 309.035s
+Package 0: PKG=17631.8J, DRAM=11286.1J
+Package 1: PKG=11831.2J, DRAM=5123.14J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=47.5518J, DRAM=24.2747J
+Package 1: PKG=32.7824J, DRAM=16.1708J
+

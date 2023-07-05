@@ -1,0 +1,83 @@
+Saida alterada para O3-m16.txt
+
+Tamanho do array alterado para 40000x40000
+
+Quantidade de iteracoes alterado para 31
+
+Quantidade maxima de threads alterada para 16
+
+Measuring idle (1s)
+Package 0: PKG=48.5139J, DRAM=25.0835J
+Package 1: PKG=42.7787J, DRAM=22.7538J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 9.29592s
+Package 0: PKG=656.215J, DRAM=722.933J
+Package 1: PKG=601.673J, DRAM=767.095J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=48.4548J, DRAM=24.9586J
+Package 1: PKG=44.1623J, DRAM=22.8028J
+
+Measuring idle (1s)
+Package 0: PKG=48.439J, DRAM=25.003J
+Package 1: PKG=44.2019J, DRAM=22.655J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 6.80356s
+Package 0: PKG=486.803J, DRAM=588.865J
+Package 1: PKG=449.105J, DRAM=594.852J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=48.4523J, DRAM=24.9782J
+Package 1: PKG=44.1674J, DRAM=22.6885J
+
+Measuring idle (1s)
+Package 0: PKG=48.4498J, DRAM=25.5183J
+Package 1: PKG=44.163J, DRAM=23.1791J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 6.80615s
+Package 0: PKG=486.425J, DRAM=590.167J
+Package 1: PKG=449.152J, DRAM=592.767J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=48.4568J, DRAM=25.2505J
+Package 1: PKG=43.3924J, DRAM=23.1791J
+
+Measuring idle (1s)
+Package 0: PKG=48.4238J, DRAM=25.2048J
+Package 1: PKG=43.0856J, DRAM=22.7824J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 6.81102s
+Package 0: PKG=486.865J, DRAM=590.269J
+Package 1: PKG=450.587J, DRAM=592.639J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=48.4551J, DRAM=25.0295J
+Package 1: PKG=44.1574J, DRAM=22.9109J
+
+Measuring idle (1s)
+Package 0: PKG=48.4065J, DRAM=24.817J
+Package 1: PKG=44.1568J, DRAM=22.682J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 6.80291s
+Package 0: PKG=486.006J, DRAM=589.267J
+Package 1: PKG=448.154J, DRAM=591.616J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=48.4575J, DRAM=24.9409J
+Package 1: PKG=44.1458J, DRAM=22.6365J
+

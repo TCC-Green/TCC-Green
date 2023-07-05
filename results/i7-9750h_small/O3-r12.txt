@@ -1,0 +1,68 @@
+Saida alterada para O3-r12.txt
+
+Tamanho do array alterado para 100x100
+
+Quantidade de iteracoes alterado para 5000000
+
+Quantidade maxima de threads alterada para 12
+
+Measuring idle (1s)
+Package 0: PKG=1.96582J, PP0=0.264221J, PP1=0J, DRAM=0.620728J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 22.5736s
+Package 0: PKG=1189.41J, PP0=1149.87J, PP1=0J, DRAM=12.9872J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=1.96667J, PP0=0.248718J, PP1=0J, DRAM=0.619202J
+
+Measuring idle (1s)
+Package 0: PKG=1.82178J, PP0=0.110352J, PP1=0J, DRAM=0.619019J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 22.5013s
+Package 0: PKG=1223.27J, PP0=1183.37J, PP1=0.00891113J, DRAM=12.9504J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=1.87195J, PP0=0.12915J, PP1=0J, DRAM=0.620789J
+
+Measuring idle (1s)
+Package 0: PKG=2.56702J, PP0=0.827515J, PP1=0J, DRAM=0.620667J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 23.1099s
+Package 0: PKG=1164.44J, PP0=1123.28J, PP1=0J, DRAM=13.2937J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=1.95129J, PP0=0.211182J, PP1=0J, DRAM=0.61969J
+
+Measuring idle (1s)
+Package 0: PKG=2.00079J, PP0=0.254211J, PP1=0J, DRAM=0.619446J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 23.1647s
+Package 0: PKG=1165.41J, PP0=1123.9J, PP1=0.0090332J, DRAM=13.3314J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=2.0069J, PP0=0.265991J, PP1=0J, DRAM=0.618774J
+
+Measuring idle (1s)
+Package 0: PKG=1.99182J, PP0=0.246216J, PP1=0J, DRAM=0.618042J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 23.2143s
+Package 0: PKG=1168.86J, PP0=1127.04J, PP1=0.0182495J, DRAM=13.3785J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=1.99231J, PP0=0.246521J, PP1=0J, DRAM=0.618896J
+

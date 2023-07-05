@@ -1,0 +1,7 @@
+#!/bin/bash
+
+### load GCC module
+module load GCC
+
+### compile files
+g++ *.cpp -o tccgreen -O3 -fopenmp -Wall -lm

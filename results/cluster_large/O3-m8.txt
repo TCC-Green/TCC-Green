@@ -1,0 +1,83 @@
+Saida alterada para O3-m8.txt
+
+Tamanho do array alterado para 40000x40000
+
+Quantidade de iteracoes alterado para 31
+
+Quantidade maxima de threads alterada para 8
+
+Measuring idle (1s)
+Package 0: PKG=48.5685J, DRAM=25.0001J
+Package 1: PKG=43.8859J, DRAM=22.4765J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 8.55776s
+Package 0: PKG=546.235J, DRAM=665.67J
+Package 1: PKG=513.489J, DRAM=691.095J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=47.0688J, DRAM=24.9547J
+Package 1: PKG=43.5778J, DRAM=22.7662J
+
+Measuring idle (1s)
+Package 0: PKG=46.999J, DRAM=24.9493J
+Package 1: PKG=43.2207J, DRAM=22.6477J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.68255s
+Package 0: PKG=490.501J, DRAM=621.503J
+Package 1: PKG=457.755J, DRAM=630.853J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=46.844J, DRAM=24.7625J
+Package 1: PKG=42.8729J, DRAM=22.7927J
+
+Measuring idle (1s)
+Package 0: PKG=46.4427J, DRAM=25.4063J
+Package 1: PKG=43.0102J, DRAM=23.0873J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.6774s
+Package 0: PKG=489.492J, DRAM=622.521J
+Package 1: PKG=457.953J, DRAM=630.314J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=47.0509J, DRAM=25.0758J
+Package 1: PKG=43.6927J, DRAM=22.6011J
+
+Measuring idle (1s)
+Package 0: PKG=46.4751J, DRAM=24.8293J
+Package 1: PKG=43.4628J, DRAM=22.5992J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.68061s
+Package 0: PKG=489.907J, DRAM=623.311J
+Package 1: PKG=457.074J, DRAM=628.818J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=46.9551J, DRAM=24.8538J
+Package 1: PKG=42.7985J, DRAM=22.3295J
+
+Measuring idle (1s)
+Package 0: PKG=46.2972J, DRAM=25.1906J
+Package 1: PKG=42.7492J, DRAM=22.9048J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.68492s
+Package 0: PKG=489.489J, DRAM=625.2J
+Package 1: PKG=455.853J, DRAM=628.959J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=46.9961J, DRAM=24.875J
+Package 1: PKG=42.9144J, DRAM=22.502J
+

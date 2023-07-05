@@ -1,0 +1,68 @@
+Saida alterada para O1-r2.txt
+
+Tamanho do array alterado para 100x100
+
+Quantidade de iteracoes alterado para 5000000
+
+Quantidade maxima de threads alterada para 2
+
+Measuring idle (1s)
+Package 0: PKG=1.84106J, PP0=0.224548J, PP1=0.0187988J, DRAM=0.565613J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 100.762s
+Package 0: PKG=2771.19J, PP0=2609.58J, PP1=2.80835J, DRAM=57.0914J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=2.45947J, PP0=0.873535J, PP1=0.020874J, DRAM=0.56427J
+
+Measuring idle (1s)
+Package 0: PKG=1.80292J, PP0=0.213806J, PP1=0.0187988J, DRAM=0.566345J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 100.667s
+Package 0: PKG=2779.29J, PP0=2618.96J, PP1=2.79474J, DRAM=57.0217J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=1.73334J, PP0=0.153687J, PP1=0.0193481J, DRAM=0.564148J
+
+Measuring idle (1s)
+Package 0: PKG=1.79968J, PP0=0.217834J, PP1=0.0184326J, DRAM=0.567078J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 100.672s
+Package 0: PKG=2806.89J, PP0=2646.73J, PP1=2.80243J, DRAM=57.0237J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=2.45294J, PP0=0.865601J, PP1=0.0206909J, DRAM=0.565308J
+
+Measuring idle (1s)
+Package 0: PKG=1.78009J, PP0=0.204102J, PP1=0.0185547J, DRAM=0.565186J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 100.683s
+Package 0: PKG=2799.85J, PP0=2639.81J, PP1=2.74261J, DRAM=57.0189J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=1.76367J, PP0=0.178833J, PP1=0.0182495J, DRAM=0.564392J
+
+Measuring idle (1s)
+Package 0: PKG=1.76715J, PP0=0.192444J, PP1=0.0185547J, DRAM=0.564331J
+
+Initialize Reduction (100x100 array)
+Execute Reduction
+Execution time: 100.748s
+Package 0: PKG=2794.74J, PP0=2634.17J, PP1=2.81348J, DRAM=57.0726J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=1.84753J, PP0=0.260803J, PP1=0.0185547J, DRAM=0.565063J
+

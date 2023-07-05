@@ -1,0 +1,83 @@
+Saida alterada para O3-r8.txt
+
+Tamanho do array alterado para 40000x40000
+
+Quantidade de iteracoes alterado para 31
+
+Quantidade maxima de threads alterada para 8
+
+Measuring idle (1s)
+Package 0: PKG=30.9529J, DRAM=25.6336J
+Package 1: PKG=26.3069J, DRAM=22.7005J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 29.7993s
+Package 0: PKG=1579.01J, DRAM=1294.34J
+Package 1: PKG=1400.45J, DRAM=1275.74J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=45.4365J, DRAM=25.6475J
+Package 1: PKG=40.2615J, DRAM=22.7545J
+
+Measuring idle (1s)
+Package 0: PKG=45.6199J, DRAM=25.566J
+Package 1: PKG=40.2601J, DRAM=22.6783J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 28.7466s
+Package 0: PKG=1521.07J, DRAM=1262.42J
+Package 1: PKG=1356.62J, DRAM=1242.8J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=46.6482J, DRAM=25.966J
+Package 1: PKG=41.3111J, DRAM=23.2141J
+
+Measuring idle (1s)
+Package 0: PKG=46.6456J, DRAM=25.5958J
+Package 1: PKG=41.3057J, DRAM=22.6724J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 28.8347s
+Package 0: PKG=1526.81J, DRAM=1263.61J
+Package 1: PKG=1363.71J, DRAM=1254.98J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=45.6188J, DRAM=24.9099J
+Package 1: PKG=41.3051J, DRAM=22.7741J
+
+Measuring idle (1s)
+Package 0: PKG=45.6429J, DRAM=25.2414J
+Package 1: PKG=41.3019J, DRAM=23.1837J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 28.74s
+Package 0: PKG=1521.92J, DRAM=1260.58J
+Package 1: PKG=1357.98J, DRAM=1247.89J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=46.8289J, DRAM=24.6355J
+Package 1: PKG=41.3099J, DRAM=22.6534J
+
+Measuring idle (1s)
+Package 0: PKG=46.7155J, DRAM=24.3783J
+Package 1: PKG=41.3112J, DRAM=22.8428J
+
+Initialize Reduction (40000x40000 array)
+Execute Reduction
+Execution time: 28.7405s
+Package 0: PKG=1527.16J, DRAM=1261.17J
+Package 1: PKG=1357.85J, DRAM=1248.53J
+Clean Reduction
+
+Measuring idle (1s)
+Package 0: PKG=47.0092J, DRAM=24.7557J
+Package 1: PKG=41.3986J, DRAM=22.8357J
+

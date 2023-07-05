@@ -1,0 +1,83 @@
+Saida alterada para O0-s2.txt
+
+Tamanho do array alterado para 100x100
+
+Quantidade de iteracoes alterado para 5000000
+
+Quantidade maxima de threads alterada para 2
+
+Measuring idle (1s)
+Package 0: PKG=30.1505J, DRAM=24.7827J
+Package 1: PKG=22.2165J, DRAM=23.0341J
+
+Initialize Stencil (102x102 array)
+Execute Stencil
+Execution time: 306.49s
+Package 0: PKG=13585.9J, DRAM=10154.1J
+Package 1: PKG=11402.1J, DRAM=8638.3J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=39.9316J, DRAM=16.8311J
+Package 1: PKG=34.9074J, DRAM=22.9949J
+
+Measuring idle (1s)
+Package 0: PKG=39.9011J, DRAM=16.7962J
+Package 1: PKG=34.8767J, DRAM=22.9742J
+
+Initialize Stencil (102x102 array)
+Execute Stencil
+Execution time: 308.21s
+Package 0: PKG=13641J, DRAM=10206.4J
+Package 1: PKG=11496.8J, DRAM=8677.22J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=39.8757J, DRAM=16.8145J
+Package 1: PKG=35.1008J, DRAM=22.8646J
+
+Measuring idle (1s)
+Package 0: PKG=39.9206J, DRAM=16.8235J
+Package 1: PKG=35.0587J, DRAM=23.1583J
+
+Initialize Stencil (102x102 array)
+Execute Stencil
+Execution time: 307.998s
+Package 0: PKG=13619.1J, DRAM=10194.9J
+Package 1: PKG=11554.3J, DRAM=8658.7J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=39.884J, DRAM=16.8143J
+Package 1: PKG=35.068J, DRAM=23.0099J
+
+Measuring idle (1s)
+Package 0: PKG=39.8895J, DRAM=16.7763J
+Package 1: PKG=35.1148J, DRAM=23.1431J
+
+Initialize Stencil (102x102 array)
+Execute Stencil
+Execution time: 307.936s
+Package 0: PKG=13636.6J, DRAM=10196.9J
+Package 1: PKG=11556.5J, DRAM=8678.1J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=39.9014J, DRAM=16.7689J
+Package 1: PKG=35.6502J, DRAM=22.9515J
+
+Measuring idle (1s)
+Package 0: PKG=39.8786J, DRAM=16.7009J
+Package 1: PKG=35.488J, DRAM=23.1691J
+
+Initialize Stencil (102x102 array)
+Execute Stencil
+Execution time: 308.207s
+Package 0: PKG=13632.7J, DRAM=10205.6J
+Package 1: PKG=11533J, DRAM=8683.4J
+Clean Stencil
+
+Measuring idle (1s)
+Package 0: PKG=39.8774J, DRAM=16.7867J
+Package 1: PKG=35.0554J, DRAM=22.9739J
+

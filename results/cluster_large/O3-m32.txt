@@ -1,0 +1,83 @@
+Saida alterada para O3-m32.txt
+
+Tamanho do array alterado para 40000x40000
+
+Quantidade de iteracoes alterado para 31
+
+Quantidade maxima de threads alterada para 32
+
+Measuring idle (1s)
+Package 0: PKG=28.7446J, DRAM=18.6285J
+Package 1: PKG=24.1693J, DRAM=17.5894J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 9.86981s
+Package 0: PKG=672.17J, DRAM=811.366J
+Package 1: PKG=663.523J, DRAM=-261356J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=42.2361J, DRAM=25.2715J
+Package 1: PKG=43.3013J, DRAM=23.0784J
+
+Measuring idle (1s)
+Package 0: PKG=42.1918J, DRAM=24.8957J
+Package 1: PKG=43.2628J, DRAM=22.7548J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.18088s
+Package 0: PKG=535.53J, DRAM=626.749J
+Package 1: PKG=494.726J, DRAM=628.157J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=49.8712J, DRAM=25.0967J
+Package 1: PKG=42.3911J, DRAM=22.7925J
+
+Measuring idle (1s)
+Package 0: PKG=49.8148J, DRAM=24.9547J
+Package 1: PKG=41.9117J, DRAM=22.8173J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.21944s
+Package 0: PKG=551.844J, DRAM=626.356J
+Package 1: PKG=504.167J, DRAM=630.27J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=50.9066J, DRAM=24.9249J
+Package 1: PKG=42.7518J, DRAM=22.6287J
+
+Measuring idle (1s)
+Package 0: PKG=50.5919J, DRAM=25.5264J
+Package 1: PKG=42.793J, DRAM=23.5272J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.23416s
+Package 0: PKG=563.271J, DRAM=627.075J
+Package 1: PKG=508.532J, DRAM=631.937J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=51.3047J, DRAM=25.4067J
+Package 1: PKG=42.7343J, DRAM=23.1443J
+
+Measuring idle (1s)
+Package 0: PKG=51.2449J, DRAM=24.7708J
+Package 1: PKG=42.7305J, DRAM=22.711J
+
+Initialize Map (40000x40000 array)
+Execute Map
+Execution time: 7.21335s
+Package 0: PKG=547.836J, DRAM=627.023J
+Package 1: PKG=510.627J, DRAM=633.161J
+Clean Map
+
+Measuring idle (1s)
+Package 0: PKG=48.4374J, DRAM=25.0969J
+Package 1: PKG=42.7813J, DRAM=22.7859J
+
